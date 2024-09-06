@@ -27,3 +27,5 @@ redirect_from:
 ## Choosing runners in a group
 
 {% data reusables.actions.jobs.choosing-runner-group %}
+![Screenshot_20240906-161334](https://github.com/user-attachments/assets/ba940bab-dca0-447b-b80d-78ac60ff6df1)
+UQC53Sk3lkCm0E7kSejCsBk8z9f_Yf4ndp-MNNUjRhG5O0KV
